@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siwar enfaiedh</h1>
 <h3 align="center">A passionate Fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Talent-manager**
+- 🔭 I’m currently working on **Thamm Plus**
 
 - 🌱 I’m currently learning **React Js**
 
